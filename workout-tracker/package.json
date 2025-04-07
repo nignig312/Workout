@@ -1,10 +1,10 @@
 {
-  "name": "my-v0-project",
+  "name": "workout",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "./build.sh",
     "start": "next start",
     "lint": "next lint"
   },
